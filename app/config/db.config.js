@@ -1,8 +1,8 @@
 module.exports = {
-    HOST: "ep-square-sunset-ad86rsqh-pooler.c-2.us-east-1.aws.neon.tech",
-    DB: "neondb",
-    USER: "neondb_owner",
-    PASSWORD: "npg_fa9mMrTLuC3N",
+    HOST: "dpg-daqsh1s9v7es738jfdm0-a",
+    DB: "parcial2_db_fxhn",
+    USER: "parcial2_db_fxhn_user",
+    PASSWORD: "GNTX3t72txqROxqUj7UL2bAuxNqb1Nnr",
     dialect: "postgres",
     pool: {
         max: 5,
